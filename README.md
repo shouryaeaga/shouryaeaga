@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shouryaeaga
-- 👀 I’m interested in learning about Dart alongside Flutter
-- 🌱 I’m also currently learning Dart and Flutter
+- 👀 I’m interested in learning about Svelte and Django
+- 🌱 I’m also currently learning about Django with Python, and Svelte, the javascript ui framework
 - 📫 How to reach me:
   Contact me via email: shourya.eaga.09@gmail.com
 
