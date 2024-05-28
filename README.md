@@ -1,7 +1,7 @@
 👋 Hi, I'm Shourya Eaga
 
 ## About me
-- I'm a young 13 year old programmer living in the UK 🇬🇧
+- I'm a young 14 year old programmer living in the UK 🇬🇧
 - I was born in India 🇮🇳
 - I play cricket 🏏
 - I want to learn more about web development and programming
