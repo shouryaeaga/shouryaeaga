@@ -11,6 +11,3 @@
 
 ## My stats
 [![My stats](https://github-readme-stats.vercel.app/api?username=shouryaeaga&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-## Projects
-- I am currently working on a driver for a 1602 LCD Display written in Rust
